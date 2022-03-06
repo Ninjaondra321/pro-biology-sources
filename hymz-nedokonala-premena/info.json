@@ -1,0 +1,26 @@
+{
+    "title":"Hymz-nedokonala",
+    "baseURL":"https://raw.githubusercontent.com/Ninjaondra321/pro-biology-sources/master/",
+    "dict": [
+        {
+            "id":0,
+            "title":"Spološtěnka blátivá",
+            "src":"0.png"
+        },
+        {
+            "id":1,
+            "title":"Hovnovál",
+            "src":"1.png"
+        },
+        {
+            "id":2,
+            "title":"Velký kulový",
+            "src":"2.png"
+        },
+        {
+            "id":3,
+            "title":"Babočka Paví oko",
+            "src":"3.png"
+        }
+    ]
+}
