@@ -1,0 +1,41 @@
+{
+    "title":"ProKarla - Prohlížeče",
+    "baseURL":"https://raw.githubusercontent.com/Ninjaondra321/pro-biology-sources/master/pro-karla-prohlizece/",
+    "dict": [
+        {
+            "id":0,
+            "title":"MS Edge",
+            "src":"edge.png"
+        },
+        {
+            "id":1,
+            "title":"MS Internet Explorer",
+            "src":"explorer.png"
+        },
+        {
+            "id":2,
+            "title":"Google",
+            "src":"google.png"
+        },
+        {
+            "id":3,
+            "title":"Opera",
+            "src":"opera.png"
+        },
+        {
+            "id":4,
+            "title":"Opera GX",
+            "src":"operaGX.png"
+        },
+        {
+            "id":5,
+            "title":"Seznam",
+            "src":"seznam.png"
+        },
+        {
+            "id":6,
+            "title":"Yahoo [JAHŮ]",
+            "src":"yahoo.png"
+        }
+    ]
+}
