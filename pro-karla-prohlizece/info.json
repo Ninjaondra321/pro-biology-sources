@@ -4,17 +4,17 @@
     "dict": [
         {
             "id":0,
-            "title":"MS Edge",
+            "title":"MS Edge - Nástupce internetu explorer",
             "src":"edge.png"
         },
         {
             "id":1,
-            "title":"MS Internet Explorer",
+            "title":"MS Internet Explorer - Už neexistuje",
             "src":"explorer.png"
         },
         {
             "id":2,
-            "title":"Google",
+            "title":"Google - Vyhledávač",
             "src":"google.png"
         },
         {
@@ -24,18 +24,28 @@
         },
         {
             "id":4,
-            "title":"Opera GX",
+            "title":"Opera GX - Pro hráče",
             "src":"operaGX.png"
         },
         {
             "id":5,
-            "title":"Seznam",
+            "title":"Seznam - Český",
             "src":"seznam.png"
         },
         {
             "id":6,
             "title":"Yahoo [JAHŮ]",
             "src":"yahoo.png"
+        },
+        {
+            "id":7,
+            "title":"Tor - nevystopovatelný",
+            "src":"tor.png"
+        },
+        {
+            "id":8,
+            "title":"Google CHROME - Aplikace",
+            "src":"chrome.png"
         }
     ]
 }
