@@ -4,23 +4,188 @@
     "dict": [
         {
             "id":0,
-            "title":"Spološtěnka blátivá",
-            "src":"0.png"
+            "title":"Zlatoočka obecná",
+            "src":"image 1.png"
         },
         {
             "id":1,
-            "title":"Hovnovál",
-            "src":"1.png"
+            "title":"Mravkolev obecný",
+            "src":"image 2.png"
         },
         {
             "id":2,
-            "title":"Velký kulový",
-            "src":"2.png"
+            "title":"Tiplice",
+            "src":"image 3.png"
         },
         {
             "id":3,
-            "title":"Babočka Paví oko",
-            "src":"3.png"
+            "title":"Komár Anopheles - malárie",
+            "src":"image 4.png"
+        },
+        {
+            "id":4,
+            "title":"Moucha domácí",
+            "src":"image 5.png"
+        },
+        {
+            "id":5,
+            "title":"bodalky -  moucha tse tse",
+            "src":"image 6.png"
+        },
+        {
+            "id":6,
+            "title":"Pestřenka rybízová",
+            "src":"image 7.png"
+        },
+        {
+            "id":7,
+            "title":"Ovádi",
+            "src":"image 8.png"
+        },
+        {
+            "id":8,
+            "title":"Octomilka obecná (Drosophila melanogaster)",
+            "src":"image 9.png"
+        },
+        {
+            "id":9,
+            "title":"Vrtule třešňová",
+            "src":"image 10.png"
+        },
+        {
+            "id":10,
+            "title":"Bejlomorka buková",
+            "src":"image 11.png"
+        },
+        {
+            "id":11,
+            "title":"Chrostíci",
+            "src":"image 12.png"
+        },
+        {
+            "id":12,
+            "title":"Pilatka jablečná, švestková …",
+            "src":"image 13.png"
+        },
+        {
+            "id":13,
+            "title":"žlabatka růžová",
+            "src":"image 14.png"
+        },
+        {
+            "id":14,
+            "title":"žlabatka dubová",
+            "src":"image 15.png"
+        },
+        {
+            "id":15,
+            "title":"Lumek velký",
+            "src":"image 16.png"
+        },
+        {
+            "id":16,
+            "title":"Mravenec lesní",
+            "src":"image 17.png"
+        },
+        {
+            "id":17,
+            "title":"Včela medonosná",
+            "src":"image 18.png"
+        },
+        {
+            "id":18,
+            "title":"Vosa obecná",
+            "src":"image 19.png"
+        },
+        {
+            "id":19,
+            "title":"Sršeň obecná",
+            "src":"image 20.png"
+        },
+        {
+            "id":20,
+            "title":"Blechy",
+            "src":"image 21.png"
+        },
+        {
+            "id":21,
+            "title":"Babočka paví oko",
+            "src":"image 22.png"
+        },
+        {
+            "id":22,
+            "title":"Babočka kopřivová",
+            "src":"image 23.png"
+        },
+        {
+            "id":23,
+            "title":"Babočka admirál",
+            "src":"image 24.png"
+        },
+        {
+            "id":24,
+            "title":"Otakárek fenyklový",
+            "src":"image 25.png"
+        },
+        {
+            "id":25,
+            "title":"Otakárek ovocný",
+            "src":"image 26.png"
+        },
+        {
+            "id":26,
+            "title":"klíněnka jírovcová",
+            "src":"image 27.png"
+        },
+        {
+            "id":27,
+            "title":"Střevlíci",
+            "src":"image 28.png"
+        },
+        {
+            "id":28,
+            "title":"potápník vroubený",
+            "src":"image 29.png"
+        },
+        {
+            "id":29,
+            "title":"mrchožrout obecný",
+            "src":"image 30.png"
+        },
+        {
+            "id":30,
+            "title":"Mandelinka bramborová",
+            "src":"image 31.png"
+        },
+        {
+            "id":31,
+            "title":"potemník moučný",
+            "src":"image 32.png"
+        },
+        {
+            "id":32,
+            "title":"Slunéčko sedmitečné",
+            "src":"image 33.png"
+        },
+        {
+            "id":33,
+            "title":"Roháč obecný",
+            "src":"image 34.png"
+        },
+        {
+            "id":34,
+            "title":"Zlatohlávek zlatý",
+            "src":"image 35.png"
+        },
+        {
+            "id":35,
+            "title":"Chrobák velký",
+            "src":"image 36.png"
+        },
+        {
+            "id":36,
+            "title":"Lýkožrout smrkový",
+            "src":"image 37.png"
         }
     ]
 }
