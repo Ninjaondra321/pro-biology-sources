@@ -12,26 +12,7 @@
             "title":"MS Internet Explorer - Už neexistuje",
             "src":"explorer.png"
         },
-        {
-            "id":2,
-            "title":"Google - Vyhledávač",
-            "src":"google.png"
-        },
-        {
-            "id":3,
-            "title":"Opera",
-            "src":"opera.png"
-        },
-        {
-            "id":4,
-            "title":"Opera GX - Pro hráče",
-            "src":"operaGX.png"
-        },
-        {
-            "id":5,
-            "title":"Seznam - Český",
-            "src":"seznam.png"
-        },
+        {"id":2,"title":"Google - Vyhledávač","src":"google.png"},{"id":3,"title":"Opera","src":"opera.png"},{"id":4,"title":"Opera GX - Pro hráče","src":"operaGX.png"},{"id":5,"title":"Seznam - Český","src":"seznam.png"},
         {
             "id":6,
             "title":"Yahoo [JAHŮ]",
